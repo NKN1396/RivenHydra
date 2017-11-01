@@ -1,0 +1,26 @@
+{
+  "name": "rivenh",
+  "version": "1.0.0",
+  "description": "A Discord bot for grading Warframes \"Riven mods\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Discord",
+    "Discord.js",
+    "Warframe",
+    "Riven",
+    "OCR"
+  ],
+  "author": "NKN1396",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "jimp": "^0.2.28",
+    "request": "^2.81.0",
+    "stream-buffers": "^3.0.1",
+    "stream-to-array": "^2.3.0",
+    "tesseract.js": "^1.0.10"
+  }
+}
